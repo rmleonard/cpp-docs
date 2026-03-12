@@ -1,2 +1,2 @@
 # cpp-docs
-Documentation projects from CPP that I work on
+Documentation projects from CPP that I work on, and belong to me.
